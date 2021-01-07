@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**BrunoVRoger/BrunoVRoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi, I'm Bruno Vinicius! 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I am currently working at BCR CX
+- 🤖 I have knowledge in JavaScript,Python,CSS
+- 💪 I am currently studying React, and I aim to acquire other knowledge of other languages.
+- 🕵️‍Where else do you find me?
+
+ Instagram: brunovroger
+ Facebook: Bruno Vinicius 
+ e-mail:bruno_v.roger@hotmail.com
+
+## And that's it, thanks! 🙅
+
+
